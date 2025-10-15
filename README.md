@@ -22,7 +22,7 @@ brew update
 brew install ffmpeg
 ```
 
-- [SQLite 3](https://www.sqlite.org/download.html) only required for you to manually inspect the database.
+- [SQLite 3](https://www.sqlite.org/download.html) only required for you to manually inspect the database
 
 ```bash
 # linux
